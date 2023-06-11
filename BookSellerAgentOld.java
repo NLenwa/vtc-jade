@@ -1,4 +1,4 @@
-﻿/ *  Klasa agenta sprzedającego lektury.
+/ *  Klasa agenta sprzedającego lektury.
  *  Sprzedawca dysponuje katalogiem książek oraz dwoma klasami zachowań:
  *  - OfferRequestsServer - obsługa odpowiedzi na oferty klientów
  *  - PurchaseOrdersServer - obsługa zamówienia klienta
